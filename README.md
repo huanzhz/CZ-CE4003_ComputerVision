@@ -1,3 +1,3 @@
-# CZ4003
+# CZ4003 Computer Vision
 
 Hello Friends :)
