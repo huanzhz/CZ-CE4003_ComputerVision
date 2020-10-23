@@ -1,3 +1,3 @@
 # CZ4003 Computer Vision
 
-Hello Friends :)
+Hello Friends :) I am glad that you are curious about HERE :D
