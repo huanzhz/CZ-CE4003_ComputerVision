@@ -14,6 +14,8 @@ https://github.com/DAIJUNWEI/NTU-CZ4003-CV
 
 https://github.com/ngqiming/CZ-CE4003ComVision
 
+https://github.com/lhinjy/cz4003
+
 -2019
 
 https://github.com/SherryTang88/CZ4003
@@ -34,6 +36,15 @@ https://github.com/MaxPoon/CZ4003-Computer-Vision
 
 https://www.mathworks.com/help/matlab/ref/imshow.html
 
+https://www.mathworks.com/help/matlab/ref/imagesc.html
+
 https://www.mathworks.com/help/matlab/ref/conv2.html
 
+https://www.mathworks.com/help/matlab/ref/colon.html
+
+https://www.mathworks.com/help/matlab/matlab_prog/matlab-operators-and-special-characters.html
+
+-conv2 
+
+https://youtu.be/OEEVJW5dSCg?t=430
 
