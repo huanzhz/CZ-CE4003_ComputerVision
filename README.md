@@ -26,6 +26,8 @@ https://github.com/yonghaoharry/NTU_CZ4003_Computer_Vision
 
 https://github.com/SherryTang88/CZ4003
 
+https://github.com/akyulas/CE4003
+
 -2018
 
 https://github.com/txrc/CZ4003-Computer-Vision-Lab
@@ -34,9 +36,15 @@ https://github.com/onnoeberhard/cz4003
 
 https://github.com/cacad101/cz4003-labs
 
+https://github.com/anraninsg/ce4003
+
 -2017
 
 https://github.com/MaxPoon/CZ4003-Computer-Vision
+
+https://github.com/Tuzki1996/CE4003-Computer-Vision-Lab1
+
+https://github.com/Tuzki1996/CE4003-Computer-Vision-Lab2
 
 -matlab functions
 
