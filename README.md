@@ -16,6 +16,12 @@ https://github.com/ngqiming/CZ-CE4003ComVision
 
 https://github.com/lhinjy/cz4003
 
+https://github.com/hongyurain/CZ4003_Assignments
+
+https://github.com/hanstananda/CZ4003-Lab1
+
+https://github.com/yonghaoharry/NTU_CZ4003_Computer_Vision
+
 -2019
 
 https://github.com/SherryTang88/CZ4003
