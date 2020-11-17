@@ -1,0 +1,11 @@
+
+Bag of Visual words/ Bag of words
+BOVW or BOW which came from natural language processing 
+
+https://www.youtube.com/watch?v=PRceoMWcv1U
+
+This is level 0 of Spatial Pyramid Mataching
+
+
+-installing
+https://stackoverflow.com/questions/61901365/modulenotfounderror-no-module-named-sklearn-externals-six

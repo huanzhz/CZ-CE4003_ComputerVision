@@ -1,0 +1,40 @@
+空间信息, use the location of the space of the image.
+
+-research paper
+https://inc.ucsd.edu/~marni/Igert/Lazebnik_06.pdf
+
+-simple explanation
+
+https://www.youtube.com/watch?v=6MwuK2wHlOg
+
+-past works
+
+https://github.com/cacad101/cz4003-labs/tree/master/lab2
+
+https://github.com/MaxPoon/CZ4003-Computer-Vision/tree/master/Lab2
+
+-others
+
+https://github.com/search?q=Spatial+Pyramid+matching
+
+https://github.com/wihoho/Image-Recognition
+
+https://github.com/lipiji/PG_BOW_DEMO
+
+https://github.com/CyrusChiu/Image-recognition
+
+https://github.com/BillG0510/Spatial-Pyramid-Matching/blob/master/SPM.ipynb
+
+https://github.com/TrungTVo/spatial-pyramid-matching-scene-recognition
+
+-others school
+
+https://github.com/search?q=16-720
+
+-chinese explanation
+
+https://blog.csdn.net/qq_29573053/article/details/78361335
+
+
+
+
