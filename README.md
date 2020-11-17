@@ -46,19 +46,5 @@ https://github.com/Tuzki1996/CE4003-Computer-Vision-Lab1
 
 https://github.com/Tuzki1996/CE4003-Computer-Vision-Lab2
 
--matlab functions
 
-https://www.mathworks.com/help/matlab/ref/imshow.html
-
-https://www.mathworks.com/help/matlab/ref/imagesc.html
-
-https://www.mathworks.com/help/matlab/ref/conv2.html
-
-https://www.mathworks.com/help/matlab/ref/colon.html
-
-https://www.mathworks.com/help/matlab/matlab_prog/matlab-operators-and-special-characters.html
-
--conv2 
-
-https://youtu.be/OEEVJW5dSCg?t=430
 
